@@ -16,6 +16,6 @@ Performed Exploratory Data Analysis (EDA) on Google Play Store app data using Pa
 11. Genres – Specific genres or subcategories the app belongs to.
 12. Current Ver – The current version of the app available on the Play Store.
 13. Android Ver – The minimum Android OS version required to run the app.
-14.Day_Last_Updated – The day of the month when the app was last updated.
-15.Month_Last_Updated – The month when the app was last updated.
-16.Year_Last_Updated – The year when the app was last updated.
+14. Day_Last_Updated – The day of the month when the app was last updated.
+15. Month_Last_Updated – The month when the app was last updated.
+16. Year_Last_Updated – The year when the app was last updated.
